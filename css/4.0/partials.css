@@ -127,7 +127,7 @@ header .pattern.small-circles {
 	font-size: 20px;
 	text-transform: uppercase;;
 	font-weight: 900;
-	font-family: "Euclid";
+	font-family: "Avenir";
 }
 #get-around .logos-container {
 	width: 50%;
@@ -215,7 +215,7 @@ footer a.title  {
 	font-weight: 900;
 	margin-bottom: 10px;
 	color: #666666;
-	font-family: "Euclid";
+	font-family: "Avenir";
 }
 
 footer a:hover {

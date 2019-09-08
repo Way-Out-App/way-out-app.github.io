@@ -12,3 +12,14 @@
 .sitemap-right {
 	float: right;
 }
+
+header h2#par-ici {
+	font-weight: 500;
+	margin-bottom: -6px;
+}
+
+
+header h2#la-sortie {
+	font-weight: 900;
+	margin-bottom: -10px;
+}

@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	text-align: center;
 	text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 	font-weight: 900;
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-weight: 900;
 	font-size: 45px;
 	line-height: 1em;
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-weight: 900;
 	font-size: 30px;
 	line-height: 1.2em;
@@ -56,7 +56,7 @@ h4 {
 }
 
 h5 {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-weight: 900;
 	font-size: 25px;
 	line-height: 1em;
@@ -69,7 +69,7 @@ h5 {
 }
 
 header p {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	margin-bottom: 16px;
 	font-weight: 300;
 	font-size: 16px;
@@ -351,7 +351,7 @@ header.multi-columns-content .content {
 }
 
 .multi-columns-content p.section-name {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-weight: 900;
 	font-size: 18px;
 	text-transform: uppercase;
@@ -385,7 +385,7 @@ header.multi-columns-content .content {
 }
 
 .multi-columns-content.three-columns .list .city p {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-size: 20px;
 	font-weight: 900;
 	float: left;
@@ -397,7 +397,7 @@ header.multi-columns-content .content {
 }
 
 .multi-columns-content h1 {
-	font-family: "Euclid";
+	font-family: "Avenir";
 	font-weight: 900;
 	font-size: 35px;
 	text-align: left;
@@ -412,7 +412,7 @@ header.multi-columns-content .content {
 }
 
 header.multi-columns-content .intros p {
-	font-family: "Euclid";
+	font-family: "Avenir";
 }
 
 .multi-columns-content p.h1 {
